@@ -39,5 +39,9 @@ public class Main {
         userService.dropUsersTable();
         System.out.println("Таблица успешно удалена.");
     }
+
+
+
+
 }
 

@@ -8,7 +8,7 @@ public class Util {
 
     private final String DB_URL = "jdbc:mysql://localhost:3306/myDB";
     private final String DB_USER = "root";
-    public final String DB_PASSWORD = "root";
+    private final String DB_PASSWORD = "root";
 
 
     public Connection getConnection() {
